@@ -13,6 +13,7 @@ cc: '',
 cvc: '',
 month: '',
 year: ''
+
 };
 constructor(public nav: NavController) {
 this.nav = nav;
